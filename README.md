@@ -1,3 +1,7 @@
+### Bu projede giriş ve kayıt ol için Firebase Authentication kullandım, fotoğraf yüklemek için de FirestoreDB kullandım. Stillendirme için Tailwind kullandım. Tamamen responsive tasarımdır.
+
+# https://photo-gallery-website.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
